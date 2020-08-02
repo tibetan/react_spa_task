@@ -1,0 +1,84 @@
+.container-converter {
+    height: 100%;
+    /*width: 750px;*/
+    padding-top: 0 !important;
+}
+
+.row-converter.header {
+    height: 60px;
+    padding: 1em 0;
+    background: #1A237E;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    border-radius: 0 20px 0 0 !important;
+}
+
+.row-converter {
+    max-width: 750px;
+    height: 400px;
+    background: #FFFFFF;
+    border-radius: 0 0 20px 20px !important;
+}
+
+.converter-area {
+    height: 50%;
+    padding: 3em 6em;
+}
+
+.converter-area {
+    border-bottom: solid 1px #E1E1E1;
+}
+
+.result-area {
+    height: 50%;
+    padding: 2em 6em;
+}
+
+.calc-btn {
+    height: 40px;
+    background: #1A237E;
+    border-radius: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.secondary-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.converter-result {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+
+form input, form select {
+    border: 1px solid #1A237E !important;
+    /*max-width: 80px !important;*/
+    font-family: Open Sans !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    color: #000000 !important;
+}
+
+.div-select-converter {
+    padding: 0 2px;
+}

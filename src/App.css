@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background: #E1E1E1;
+}
+
+.container {
+    padding-top: 2%;
+}
+
+.padding-top-70 {
+    padding-top: 70px;
+}
+
+.padding-top-50 {
+    padding-top: 50px;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
+
+.padding-top-8-pr {
+    padding-top: 8%;
+}
+
+.margin-top-20 {
+   margin-top: 20px;
+}
+
+.header-first {
+    font-family: Open Sans;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.btn:hover {
+    background: #232FA9;
+    color: #FFFFFF;
+}
+
+/* Настройка полосы прокрутки */
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

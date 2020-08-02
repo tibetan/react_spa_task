@@ -1,0 +1,77 @@
+.rectangle-1 {
+    position: relative;
+    height: 60px;
+    padding: 10px;
+    color: #FFFFFF;;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    border-radius: 20px 20px 0 0;
+    background: #1A237E;
+}
+
+.rectangle-2 {
+    position: relative;
+    /*width: 480px;*/
+    height: 400px;
+    /*left: 442px;*/
+    /*top: 187px;*/
+    border-radius: 0 0 20px 20px;
+    background: #FFFFFF;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.submit-btn {
+    height: 40px;
+    background: #1A237E;
+    border-radius: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+/*.submit-btn:hover {*/
+    /*background: #232FA9;*/
+    /*color: #FFFFFF;*/
+/*}*/
+
+form label {
+    margin: 0;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+}
+
+/*.lbl-login {*/
+    /*top: 257px;*/
+/*}*/
+
+/*.lbl-password {*/
+    /*top: 335px;*/
+/*}*/
+
+.error-msg {
+    /*position: fixed;*/
+    /*width: 170px;*/
+    /*height: 16px;*/
+    /*left: 597px;*/
+    /*top: 495px;*/
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    color: #D32F2F;
+}

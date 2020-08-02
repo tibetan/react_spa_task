@@ -1,0 +1,41 @@
+.btn-exit {
+    width: 130px;
+    color: #1A237E;
+    border: 1px solid #1A237E;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: #E1E1E1;
+}
+
+.nav-project-tabs span {
+    width: 180px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #1A237E !important;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #1A237E;
+}
+
+.nav-project-tabs span.active {
+    background: #1A237E !important;
+    color: #FFFFFF !important;
+
+}
+
+.nav-project-tabs span:first-of-type {
+    border-radius: 20px 0 0 0;
+}
+
+.nav-project-tabs span:last-of-type {
+    border-radius: 0 20px 0 0;
+}
+
+/*.tab-content {*/
+    /*max-width: 1000px;*/
+/*}*/

@@ -1,0 +1,54 @@
+.container-row-currency {
+    padding-top: 0;
+}
+
+.row-currency-rates.header {
+    height: 60px;
+    padding: 1em 0;
+    background: #1A237E;
+    border-radius: 0 20px 0 0 !important;
+}
+
+.row-currency-rates.header span {
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.row-currency-rates {
+    color: #000000;
+    width: 750px;
+    height: 400px;
+    background: #FFFFFF;
+    border-radius: 0 0 20px 20px !important;
+    overflow-y: auto;
+}
+
+.row-rate {
+    border-bottom: solid 1px #E1E1E1;
+    padding: 1em 0;
+    color: #000000;
+}
+
+.row-rate:last-of-type {
+    border-bottom: none;
+}
+
+.row-rate span {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.row-rate .star {
+    cursor: pointer;
+    font-size: 28px;
+    color: #1A237E;
+    box-sizing: border-box;
+    border-radius: 1px;
+}
