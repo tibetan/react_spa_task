@@ -16,3 +16,6 @@ SPA должно содержать следующие элементы:
 
 В приложенном файле TEST SPA app.psd находится дизайн, а в SPA-test.API.pdf описание API, логин/пароль тестового пользователя.
 API URL для отправки запросов http://130.211.109.15/api.php
+  
+https://www.figma.com/file/mhd7OOfAMzSBZgl6uWfjlN/TEST-SPA-app?node-id=0%3A1  
+Нужен также файл "SPA-test.API.pdf"
